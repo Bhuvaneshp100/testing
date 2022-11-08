@@ -1,0 +1,5 @@
+Sleep(5000)
+Send("C:\Users\admin\Documents\resume.docx")
+Sleep(5000)
+Send("{ENTER}")
+Sleep(5000)
